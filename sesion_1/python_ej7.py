@@ -6,7 +6,7 @@ Created on Sun Oct 18 19:11:03 2020
 @author: viktor
 """
 
-a=int(input("Entra un numero: "))
+a=int(input(""))
 if a>30 and a%3==0:
     print("True")
 else:

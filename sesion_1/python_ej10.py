@@ -6,7 +6,7 @@ Created on Sun Oct 18 19:26:53 2020
 @author: viktor
 """
 
-a=int(input("Entra un numero: "))
+a=int(input(""))
 if a>100 and a<1000:
     primero=a%10
     a=a-primero
